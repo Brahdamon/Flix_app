@@ -20,12 +20,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+<img src="https://i.imgur.com/h4V0Cxg.gif" width=250><br>
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
 
-Experienced difficulty with titleLabel and SynopsisLabel loading the correct strings into placements when simulating the app. Rectified by examining "outlets". Noticed connections on titleLabel were incorrect. Had selected the same outlet for two different labels when ctrl-dragging. Had not intended to. Experienced similar issue in the prework, good thing to keep in mind.
+Experienced difficulty with titleLabel and SynopsisLabel loading the correct strings into placements when simulating the app. Rectified by examining "outlets" under "Connection Inspector". Noticed connections on titleLabel were incorrect. Had selected the same outlet for two different labels when ctrl-dragging. Had not intended to. Experienced similar issue in the prework assignment, good thing to keep in mind.
 Experienced difficulty with the size of the Movie Cells. Rectified by going to "TableView" scope and unselecting "Automatic", and changing to static pixel height.
