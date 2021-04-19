@@ -42,7 +42,7 @@ Lower Back is starting to protest, too much time in the chair. Need to optimize 
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="https://i.imgur.com/h4V0Cxg.gif" width=250><br>
+<img src="https://i.imgur.com/h4V0Cxg" width=250><br>
 
 
 ### Notes
